@@ -1,0 +1,45 @@
+{
+  "name": "expo-skeleton-loading",
+  "version": "1.0.0",
+  "description": "Expo equivalent of react-native-skeleton-loading",
+  "main": "index.tsx",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmusaib/expo-skeleton-loading.git"
+  },
+  "dependencies": {
+    "react-native-reanimated": "~3.3.0",
+    "expo-linear-gradient": "~2.8.3",
+    "@react-native-masked-view/masked-view": "0.2.9"
+  },
+  "keywords": [
+    "skeleton",
+    "expo",
+    "react-native",
+    "skeleton-loader",
+    "skeleton loader",
+    "expo-skeleton-loader",
+    "expo skeleton loader",
+    "react-native-skeleton-loader",
+    "react native skeleton loader",
+    "skeleton-loading",
+    "skeleton loading",
+    "loading",
+    "react-native-skeleton-loading",
+    "react native skeleton loading",
+    "expo skeleton loading",
+    "easy",
+    "easy skeletion loader",
+    "easy skeletion loading"
+  ],
+  "author": "Muhammad Musaib",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mmusaib/expo-skeleton-loading/issues"
+  },
+  "homepage": "https://github.com/mmusaib/expo-skeleton-loading#readme"
+}
