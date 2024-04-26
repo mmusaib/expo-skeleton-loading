@@ -1,9 +1,9 @@
 |                          | |  |   |   |
 | --------------------------------------- | -------- | ---------- |---------- |---------- |
-| <a href="https://www.npmjs.com/package/react-native-skeleton-loading">![NPM VERSION](https://img.shields.io/npm/v/react-native-skeleton-loading?style=for-the-badge)</a> | <a href="https://www.npmjs.com/package/react-native-skeleton-loading">![NPM WEEKLY DOWNLOADS](https://img.shields.io/npm/dw/react-native-skeleton-loading?color=%232CA215&label=WEEKLY%20DOWNLOADS&style=for-the-badge)</a> | <a href="https://github.com/mmusaib/react-native-skeleton-loading/stargazers">![GITHUB STAR](https://img.shields.io/github/stars/mmusaib/react-native-skeleton-loading?label=Give%20Us%20A%20Star&style=for-the-badge)</a> | <a href="https://www.youtube.com/channel/UCSwIR2KBHiqiProH3Me8IZQ">![YOUTUBE VIEWS](https://img.shields.io/youtube/channel/views/UCSwIR2KBHiqiProH3Me8IZQ?label=YOUTUBE%20VIEWS&style=for-the-badge)</a> | <a href="https://www.npmjs.com/package/react-native-skeleton-loading">![NPM LIFETIME DOWNLOADS](https://img.shields.io/npm/dt/react-native-skeleton-loading?color=%232CA215&style=for-the-badge)</a>
+| <a href="https://www.npmjs.com/package/expo-skeleton-loading">![NPM VERSION](https://img.shields.io/npm/v/react-native-skeleton-loading?style=for-the-badge)</a> | <a href="https://www.npmjs.com/package/expo-skeleton-loading">![NPM WEEKLY DOWNLOADS](https://img.shields.io/npm/dw/react-native-skeleton-loading?color=%232CA215&label=WEEKLY%20DOWNLOADS&style=for-the-badge)</a> | <a href="https://github.com/mmusaib/expo-skeleton-loading/stargazers">![GITHUB STAR](https://img.shields.io/github/stars/mmusaib/expo-skeleton-loading?label=Give%20Us%20A%20Star&style=for-the-badge)</a> | <a href="https://www.youtube.com/channel/UCSwIR2KBHiqiProH3Me8IZQ">![YOUTUBE VIEWS](https://img.shields.io/youtube/channel/views/UCSwIR2KBHiqiProH3Me8IZQ?label=YOUTUBE%20VIEWS&style=for-the-badge)</a> | <a href="https://www.npmjs.com/package/expo-skeleton-loading">![NPM LIFETIME DOWNLOADS](https://img.shields.io/npm/dt/expo-skeleton-loading?color=%232CA215&style=for-the-badge)</a>
 
 <h1 align="center">
-  🏳️‍🌈  React Native Skeleton Loading
+  🏳️‍🌈  Expo Skeleton Loading
 </h1>
 
 <div align="center">
