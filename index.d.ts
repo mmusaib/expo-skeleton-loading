@@ -1,4 +1,3 @@
-
 export interface SkeletonLoading {
     /**
      * background of the loader componenet
