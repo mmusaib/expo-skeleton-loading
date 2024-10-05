@@ -12,7 +12,7 @@
     "url": "git+https://github.com/mmusaib/expo-skeleton-loading.git"
   },
   "dependencies": {
-    "react-native-reanimated": "~3.14.0",
+    "react-native-reanimated": "~3.10.1",
     "expo-linear-gradient": "~13.0.2",
     "@react-native-masked-view/masked-view": "0.3.1"
   },
