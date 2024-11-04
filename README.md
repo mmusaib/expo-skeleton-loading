@@ -120,9 +120,9 @@ If you would like me come up with similar packages, buy me a cup of coffee to bo
 
 
 
-<!-- # ▶️ Watch Tutorial Video 
+# ▶️ Watch Tutorial Video 
 
- [![Watch video](https://i.imgur.com/QcWCHk9.png)](https://www.youtube.com/watch?v=ZstelmTWhjw) -->
+ [![Watch video](https://i.imgur.com/DdfMsly.png)](https://www.youtube.com/watch?v=QIStdt9sx5Y&list=PLbMQyvHNUAyKVjlOwqkLATvGG9e1Lgw0O&index=11&pp=gAQBiAQB)
 
 
 <!-- For Live `Demo` [(Expo Snack)](https://snack.expo.dev/@mmusaib/react-native-stock-star-rating)
