@@ -71,7 +71,11 @@ This will clear the bundler cache and you are ready to go.
 
 
 > **NOTE:** If you face issues in production version like app crashes, then you will need to add @react-native-masked-view/masked-view.
-> For that command is npx expo install @react-native-masked-view/masked-view
+> For that command is
+```sh
+npx expo install @react-native-masked-view/masked-view
+```
+
 
 
 # 😎 Displaying the skeleton loading
