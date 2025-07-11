@@ -1,6 +1,6 @@
 {
   "name": "expo-skeleton-loading",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Expo equivalent of react-native-skeleton-loading",
   "main": "index.tsx",
   "types": "index.d.ts",
@@ -12,7 +12,7 @@
     "url": "git+https://github.com/mmusaib/expo-skeleton-loading.git"
   },
   "dependencies": {
-    "react-native-reanimated": "~3.18.0",
+    "react-native-reanimated": "~3.17.4",
     "expo-linear-gradient": "~14.1.5",
     "@react-native-masked-view/masked-view": "0.3.2"
   },
