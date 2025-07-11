@@ -1,6 +1,6 @@
 {
   "name": "expo-skeleton-loading",
-  "version": "1.1",
+  "version": "1.10",
   "description": "Expo equivalent of react-native-skeleton-loading",
   "main": "index.tsx",
   "types": "index.d.ts",
