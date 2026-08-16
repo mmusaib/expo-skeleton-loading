@@ -14,17 +14,18 @@
 <img src="https://i.imgur.com/toxEFWe.png" width="500" />
 </div>
 
-[!IMPORTANT]
-React Native Reanimated 4 Support
+> [!IMPORTANT]
+> **React Native Reanimated 4 Support**
+>
+> Starting from this version, **React Native Reanimated 4** is supported.
+>
+> If your project is using **Reanimated 3**, please use one of our **previous versions** that supports Reanimated 3.
+>
+> [!WARNING]
+> **New Architecture Required**
+>
+> **New Architecture must be enabled** in your React Native project for this version to work with **Reanimated 4**.
 
-Starting from this version, React Native Reanimated 4 is supported.
-
-If your project is using Reanimated 3, please use one of our previous versions that supports Reanimated 3.
-
-[!WARNING]
-New Architecture Required
-
-New Architecture must be enabled in your React Native project for this version to work with Reanimated 4.
 
 
 <h4>Light Weight and <b>Robust</b> Skeleton Loader.</h4>
