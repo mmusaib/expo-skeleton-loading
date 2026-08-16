@@ -29,9 +29,9 @@
 # Compatibility
 
 
-|  iOS  | Android | Expo |
---------|---------|------|
-|  ✅  |    ✅    |  ✅  |
+|  iOS  | Android | Expo | Reanimated |
+--------|---------|------|------------|
+|  ✅  |    ✅    |  ✅  |  v3  |
 
 
 
