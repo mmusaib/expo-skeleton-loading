@@ -20,7 +20,8 @@
 > Starting from this version, **React Native Reanimated 4** is supported.
 >
 > If your project is using **Reanimated 3**, please use one of our **previous versions** that supports Reanimated 3.
->
+
+
 > [!WARNING]
 > **New Architecture Required**
 >
