@@ -1,4 +1,4 @@
-import React, {ReactElement} from "react";
+import React, {ReactNode} from "react";
 import { View, StyleSheet } from "react-native";
 import MaskedView from "@react-native-masked-view/masked-view";
 import { LinearGradient } from "expo-linear-gradient";
@@ -19,7 +19,7 @@ interface SkeletonProps {
     /**
      * the children components inside SkeletonLoading
      */
-    children: ReactElement
+    children: ReactNode
     
 }
 

@@ -33,7 +33,7 @@
 
 -   Design skeleton loading screen of your choice 
 -   Pass colors of your choice
--   Powered by Reanimated 3
+-   Powered by Reanimated 4
 -   Make your apps professional in UI/UX
 
 
